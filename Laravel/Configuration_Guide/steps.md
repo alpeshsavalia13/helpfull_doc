@@ -1,0 +1,19 @@
+## Laravel Configuration Steps:
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
